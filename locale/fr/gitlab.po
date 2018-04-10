@@ -4245,7 +4245,7 @@ msgid "This job has not been triggered yet"
 msgstr "Cette tâche n’a pas encore été déclenchée"
 
 msgid "This job has not started yet"
-msgstr "Cete tâche n’a pas encore commencée"
+msgstr "Cette tâche n’a pas encore commencé"
 
 msgid "This job is in pending state and is waiting to be picked by a runner"
 msgstr "Cette tâche est en attente et attend d’être choisie par un exécuteur"
